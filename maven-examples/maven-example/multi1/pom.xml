@@ -84,6 +84,11 @@
             <version>5.9</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+  <groupId>org.apache.xmlbeans</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>4.0.0</version>
+</dependency>
     </dependencies>
 
 </project>
