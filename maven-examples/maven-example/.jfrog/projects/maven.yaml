@@ -1,0 +1,10 @@
+version: 1
+type: maven
+resolver:
+  serverId: arti
+  snapshotRepo: maven-libs-snapshot
+  releaseRepo: maven-libs-release
+deployer:
+  serverId: arti
+  snapshotRepo: maven-libs-snapshot
+  releaseRepo: maven-libs-release
