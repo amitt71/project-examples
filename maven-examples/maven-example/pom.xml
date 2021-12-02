@@ -33,12 +33,12 @@
         <repository>
         <id>central</id>
         <name>2aceb6c28a4d-releases</name>
-        <url>http://35.233.116.249:8081/artifactory/maven-libs-release</url>
+        <url>http://23.251.137.61:8081/artifactory/maven-libs-release</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>2aceb6c28a4d-snapshots</name>
-        <url>http://35.233.116.249:8081/artifactory/maven-libs-snapshot</url>
+        <url>http://23.251.137.61:8081/artifactory/maven-libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 

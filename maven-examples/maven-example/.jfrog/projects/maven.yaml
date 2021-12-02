@@ -2,9 +2,9 @@ version: 1
 type: maven
 resolver:
   serverId: arti
-  snapshotRepo: maven-libs-snapshot
-  releaseRepo: maven-libs-release
+  snapshotRepo: mvn-libs-snapshot
+  releaseRepo: mvn-libs-release
 deployer:
   serverId: arti
-  snapshotRepo: maven-libs-snapshot
-  releaseRepo: maven-libs-release
+  snapshotRepo: mvn-libs-snapshot-local
+  releaseRepo: mvn-libs-release-local
